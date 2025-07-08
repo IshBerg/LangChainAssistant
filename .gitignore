@@ -1,0 +1,27 @@
+﻿# Environment variables и API ключи (переменные окружения и API keys)
+.env
+.env.local
+*.env
+
+# Python cache (кэш Python)
+__pycache__/
+*.pyc
+*.pyo
+src/__pycache__/
+
+# Logs и временные файлы (логи и temporary files)
+logs/
+*.log
+
+# IDE файлы (файлы редактора кода)
+.idea/
+.vscode/
+
+# База данных (database files)
+db/
+*.db
+
+# Build artifacts (артефакты сборки)
+langchain_assistant_project.egg-info/
+build/
+dist/
