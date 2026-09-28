@@ -25,3 +25,5 @@ db/
 langchain_assistant_project.egg-info/
 build/
 dist/
+
+.idea/
